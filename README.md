@@ -1,14 +1,14 @@
 Contact Book Manager
 
-Name: Paramveer Singh
+Name: Aryan Kumar
 
-Registration Number: 25BCY10219
+Registration Number: 26BAI10710
 
-Program: B.Tech (Cyber Security and Digital Forensics)
+Program: B.Tech CSE AI/ML
 
 Institution: VIT Bhopal
 
-Supervisor: Dr. Shahana Gajala Qureshi
+Supervisor: Dr. M.K.Jayanthi
 
 # Key Contents
 
@@ -215,23 +215,23 @@ Enter your choice (1–6): 1
 --------------------------------------
            ADD NEW CONTACT
 --------------------------------------
-Enter Name: Alex Carter
+Enter Name: Aryan Kumar
 Enter Phone (digits only): 9876543210
-Enter Email: alex.carter@example.com
+Enter Email: aryan@example.com
 
-Success: Contact 'Alex Carter' added!
+Success: Contact 'Aryan Kumar' added!
 === CONTACT BOOK MANAGER ===
 Enter your choice (1–6): 2
 
 | NAME | PHONE | EMAIL |
 |---|---|---|
-| Alex Carter | 9876543210 | alex.carter@example.com |
+| Aryan Kumar | 9876543210 | aryan@example.com |
 === CONTACT BOOK MANAGER ===
 Enter your choice (1–6): 3
-Enter name to search: alex
+Enter name to search: Aryan
 
 ### Search Results:
-Name: Alex Carter, Phone: 9876543210, Email: alex.carter@example.com
+Name: Aryan Kumar, Phone: 9876543210, Email: aryan@example.com
 === CONTACT BOOK MANAGER ===
 Enter your choice (1–6): 6
 Goodbye!
